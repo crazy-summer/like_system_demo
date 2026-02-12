@@ -1,0 +1,19 @@
+# --- Java & Maven ---
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+out/
+gen/
+
+# --- Operating System ---
+.DS_Store
+Thumbs.db
+
+# --- Log files ---
+*.log
